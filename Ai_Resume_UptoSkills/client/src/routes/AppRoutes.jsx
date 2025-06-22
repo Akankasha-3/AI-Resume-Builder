@@ -7,7 +7,7 @@ import Home from "../pages/Home.jsx"
 
   // Login 
 import Login from "../pages/auth/Login.jsx"
-import SignUp from "../pages/auth/Signup.jsx"
+import SignUp from "../pages/auth/SignUp.jsx"
 
   // Main TemplatePage
 import TemplatePage from '../pages/TemplatePage.jsx';
